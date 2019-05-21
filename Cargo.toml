@@ -9,6 +9,7 @@ name = "rafy"
 path = "src/main.rs"
 
 [dependencies]
+rafy = {path = "../rafy-rs"}
 openssl-sys = "*"
 
 [features]
